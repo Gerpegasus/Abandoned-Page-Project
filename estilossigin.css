@@ -188,3 +188,6 @@ body {
     color: rgb(17, 97, 237);
 }
 
+form.form-login > a{
+    text-decoration: none;
+}
